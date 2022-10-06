@@ -1,0 +1,10 @@
+node_modules/
+.DS_STORE
+build/
+.yalc
+yalc.lock
+
+.nyc_output/
+src/assets/dumps/*.sql
+src/tests/assets/dumps/*
+yarn-error.log
